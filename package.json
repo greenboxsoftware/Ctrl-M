@@ -1,0 +1,13 @@
+{
+  "name": "çctrl+M",
+  "version": "0.0.1",
+  "description": "Control for Mongo databases: validations, constraints, referencial integrity...",
+  "keywords": [],
+  "author": "Guillermo Peña Cardaño <guillermo.pena.cardano@gmail.com>",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*"
+  },
+  "main": "index"
+}
